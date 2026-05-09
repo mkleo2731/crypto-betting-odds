@@ -3,29 +3,30 @@
   "version": "1.0.0",
   "description": "JavaScript utility library for converting and calculating betting odds across formats — decimal, American, fractional — with crypto payout support",
   "main": "index.js",
+  "homepage": "https://coinbetpro.com",
   "scripts": {
     "test": "node test.js"
   },
   "keywords": [
-    "betting",
-    "odds",
-    "converter",
-    "calculator",
-    "parlay",
-    "accumulator",
-    "kelly-criterion",
-    "expected-value",
-    "crypto",
-    "bitcoin",
-    "gambling",
-    "sportsbook",
-    "probability",
-    "hedge"
+    "betting", "odds", "converter", "calculator", "parlay", "accumulator",
+    "kelly-criterion", "expected-value", "crypto", "bitcoin", "gambling",
+    "sportsbook", "probability", "hedge"
   ],
-  "author": "",
+  "author": "mkleo2731",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
-  }
+    "url": "https://github.com/mkleo2731/crypto-betting-odds"
+  },
+  "bugs": {
+    "url": "https://github.com/mkleo2731/crypto-betting-odds/issues"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
 }
