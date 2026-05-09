@@ -1,0 +1,31 @@
+{
+  "name": "crypto-betting-odds",
+  "version": "1.0.0",
+  "description": "JavaScript utility library for converting and calculating betting odds across formats — decimal, American, fractional — with crypto payout support",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "betting",
+    "odds",
+    "converter",
+    "calculator",
+    "parlay",
+    "accumulator",
+    "kelly-criterion",
+    "expected-value",
+    "crypto",
+    "bitcoin",
+    "gambling",
+    "sportsbook",
+    "probability",
+    "hedge"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
