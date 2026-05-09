@@ -302,6 +302,11 @@ All tests use Node.js built-in `assert` module -- no test framework needed.
 | Expected Value | `p * stake * (decimal - 1) - (1 - p) * stake` |
 | Hedge Lay Stake | `(backStake * backOdds) / layOdds` |
 
+## Related Projects
+
+- [crypto-casino-data](https://github.com/mkleo2731/crypto-casino-data) — Open dataset of 26+ crypto gambling platforms
+- [provably-fair-verifier](https://github.com/mkleo2731/provably-fair-verifier) — Verify provably fair casino game results
+
 ## Resources
 
 For crypto betting platform reviews and guides:
